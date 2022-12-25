@@ -92,6 +92,8 @@ const config: GatsbyConfig = {
         // selfHostedOrigin: "YOUR_SELF_HOSTED_ORIGIN",
       },
     },
+    "gatsby-plugin-postcss",
+    "gatsby-plugin-emotion",
   ],
 };
 
